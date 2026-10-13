@@ -24,3 +24,9 @@ Thumbs.db
 scratch/
 candidate_kit/
 Orignal_file/
+PROBLEM_STATEMENT.docx
+*.docx
+DATA_MODEL.md
+openapi.yaml
+sample_seed.py
+sample_data/

@@ -42,13 +42,7 @@ $env:MONGO_URI="mongodb://localhost:27017"
 $env:MONGO_DB="attendance_db"
 ```
 
-### 4. Optional: Seed Sample Data
-To seed the initial sample documents provided in `sample_data/`:
-```bash
-python sample_seed.py
-```
-
-### 5. Start the Application
+### 4. Start the Application
 ```bash
 uvicorn app.main:app --port 8000
 ```
